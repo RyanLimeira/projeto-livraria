@@ -13,7 +13,7 @@ O projeto foi criado para explorar conceitos fundamentais de desenvolvimento fro
 
 ## Demonstração  
 
-Acesse o repositório em: [Projeto Livraria]((https://ryanlimeira.github.io/projeto-livraria/))  
+Confira o projeto em: [Projeto Livraria](https://ryanlimeira.github.io/projeto-livraria/)  
 
 ## Tecnologias  
 
